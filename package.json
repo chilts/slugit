@@ -1,0 +1,25 @@
+{
+  "name": "slugit",
+  "description": "Another slug package.",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "for FILE in test/*.js; do echo \"# --- $FILE ---\"; echo; tape $FILE; done"
+  },
+  "devDependencies": {
+    "tape": "^4.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chilts/slugit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chilts/slugit/issues",
+    "email": "andychilton@gmail.com"
+  },
+  "author": {
+    "name": "Andrew Chilton",
+    "email": "andychilton@gmail.com",
+    "url": "https://chilts.org/"
+  },
+  "license": "ISC"
+}
