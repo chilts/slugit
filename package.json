@@ -21,5 +21,6 @@
     "email": "andychilton@gmail.com",
     "url": "https://chilts.org/"
   },
+  "keywords" : [ "slug", "slugify" ],
   "license": "ISC"
 }
